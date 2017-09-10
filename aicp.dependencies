@@ -1,0 +1,17 @@
+[
+  {
+    "repository":  "XPerience-AOSP-Lollipop/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "branch":      "xpe-11.1"
+  },
+  {
+    "repository":  "RainbowUnicornXPe/proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch":      "xpe-11.1"
+  },
+  {
+    "repository":  "XPerience-AOSP-Lollipop/android_kernel_xiaomi_msm8937",
+    "target_path": "kernel/xiaomi/msm8937",
+    "branch":      "xpe-11.1"
+  }  
+]
